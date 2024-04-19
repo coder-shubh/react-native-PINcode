@@ -1,0 +1,30 @@
+{
+  "name": "@coder-shubh/react-native-pincode",
+  "version": "1.0.0",
+  "description": "A custmizable and easy-to-use PIN code component for react-native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/coder-shubh/react-native-PINcode.git"
+  },
+  "keywords": [
+    "react-native-pincode",
+    "react-native-PINcode",
+    "react-native-pin",
+    "react",
+    "react-native",
+    "component",
+    "coder-shubh",
+    "pin",
+    "pincode"
+  ],
+  "author": "coder-shubh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coder-shubh/react-native-PINcode/issues"
+  },
+  "homepage": "https://github.com/coder-shubh/react-native-PINcode#readme"
+}
