@@ -9,7 +9,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <!-- First GIF -->
-  <img src="https://raw.githubusercontent.com/coder-shubh/react-native-PINcode/master/src/components/assets/vido.gif" alt="Demo 1" width="45%">
+  <img src="https://raw.githubusercontent.com/coder-shubh/react-native-PINcode/master/src/components/assets/vido.gif" alt="Demo 1" width="45%" height='30%'>
 </div>
 
 <!-- Description -->
