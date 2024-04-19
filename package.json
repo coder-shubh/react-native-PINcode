@@ -1,6 +1,6 @@
 {
   "name": "@coder-shubh/react-native-pincode",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A custmizable and easy-to-use PIN code component for react-native.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,10 @@
   ],
   "author": "coder-shubh",
   "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.6"
+  },
   "bugs": {
     "url": "https://github.com/coder-shubh/react-native-PINcode/issues"
   },
