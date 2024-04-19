@@ -9,7 +9,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <!-- First GIF -->
-  <img src="https://raw.githubusercontent.com/coder-shubh/react-native-PINcode/master/src/assets/vido.gif" alt="Demo 1" width="45%">
+  <img src="https://raw.githubusercontent.com/coder-shubh/react-native-PINcode/master/src/components/assets/vido.gif" alt="Demo 1" width="45%">
 </div>
 
 <!-- Description -->
@@ -32,10 +32,10 @@ You can install the `@coder-shubh/react-native-pincode` package using npm or yar
 
 ```bash
 # with npm
-npm i @coder-shubh/react-native-pincode react-native-vector-icons
+npm i @coder-shubh/react-native-pincode
 
 # with yarn
-yarn add @coder-shubh/react-native-pincode react-native-vector-icons
+yarn add @coder-shubh/react-native-pincode
 ```
 
 <!-- Usage -->
