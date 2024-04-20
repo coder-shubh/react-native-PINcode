@@ -1,7 +1,7 @@
 
 import {useRef, useEffect, useState} from 'react';
 import {StyleSheet, View, TextInput, TouchableOpacity, Platform} from 'react-native';
-import {useFocusEffect} from '@react-navigation/native';
+// import {useFocusEffect} from '@react-navigation/native';
 
 const KeyboardType: any = {
   numberPad: 'number-pad',
@@ -39,11 +39,11 @@ const PinInput: React.FC<Props> = ({
     setPinValue('');
   };
 
-  useFocusEffect(
-    React.useCallback(() => {
-      resetEnteredPin();
-    }, []),
-  );
+  // useFocusEffect(
+  //   React.useCallback(() => {
+  //     resetEnteredPin();
+  //   }, []),
+  // );
 
   useEffect(() => {
     setTimeout(() => {

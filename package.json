@@ -1,8 +1,8 @@
 {
   "name": "@coder-shubh/react-native-pincode",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "A custimizable and easy-to-use PIN code component for react-native.",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
