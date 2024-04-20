@@ -92,7 +92,7 @@ const PinInput: React.FC<Props> = ({
         onChangeText={text => setPinValue(text)}
         keyboardType={Platform.OS === 'android' ? KeyboardType.numeric : KeyboardType.numberPad}
       />
-      <TouchableOpacity onPress={() => focusOnBubble()}>
+      <TouchableOpacity onPress={() => focusOnBubble()} activeOpacity={1}>
         <View style={styles.container}>
           {dotView().map((pinObject, index) => {
             return <View key={index} style={pinObject?.isFilled ? filledStyle : blankStyle} />;
